@@ -1,7 +1,7 @@
 package Lesson5;
 
 import javax.sound.sampled.Line;
-// загруэено на git
+// загружено на git
 public class worker {
     //задаем класс worker
     String name;
